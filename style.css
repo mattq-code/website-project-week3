@@ -1,0 +1,51 @@
+
+* {
+    font-style: DejaVu Sans Mono, monospace;
+    margin: 0px;
+    padding: 0px;
+    
+}
+ul {
+    list-style-type: none;
+
+}
+
+h2  {
+    font-size: 2.75rem;
+    font-style: italic;
+    text-decoration: underline;
+
+       
+}
+h3 {
+    font-size: 1.5rem;
+    grid-area: 1rem;
+}
+
+li {
+    font-size: 1rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p { 
+    font-style: italic;
+}
+
+.logo { 
+    font-size: 5rem;
+    color: rgba(19, 110, 176, 0.845);
+    text-align: center;
+    
+}
+
+ 
+div {   
+    background-color: rgb(190, 213, 219);
+    border-radius: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    margin: 20px 80px;
+    padding: 10px 0px;
+   
+}
